@@ -82,13 +82,21 @@ Git даст подсказку по конкретной команде, есл
 ```cat ~/.ssh/id_ed25519.pub```
 
 связка локального и удаленного репозитория
+
 ```git remote add origin git@github.com:Kondratqa/remoutRepo.git```;
 
 ```git remote -v``` ; - проверка связки локального репозитория с виртуальными
 
 Отправка данных с локального репозитория в виртуальный
 
-```git push -u origin main# repo```
+```git push -u origin main# repo```\
+
+
+Команда для клонирования репозитория на компьютер
+
+```git clone git@github.com:Kondratqa/Kino.git```
+
+
 
 
 <image src="https://www.virusov-net.com/wp-content/uploads/2011/08/System-Preferences.png" alt="Setings command">
