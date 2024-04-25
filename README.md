@@ -1,3 +1,5 @@
+<image src="https://w7.pngwing.com/pngs/941/363/png-transparent-setting-3d-icon.png" alt="Описание картинки">
+
 ```# HI!!!```
 
 # НАСТРОЙКИ GIT
