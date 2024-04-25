@@ -4,8 +4,9 @@
 2. Издательство «Читый лист»
 3. Космопорт «Черезтерновый Кзвёздный»
 4. Дизайн-студия имени Слишком Известного Персонажа
-Нас можно найти в google.com
 
+
+Нас можно найти в google.com
 
 
 <image src="https://www.virusov-net.com/wp-content/uploads/2011/08/System-Preferences.png" alt="Setings command">
