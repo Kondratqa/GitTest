@@ -120,12 +120,4 @@ Git даст подсказку по конкретной команде, есл
 
 ```git commit -a -m "fix"```
 
-
-
-
-
-
-
-
-
 <image src="https://www.virusov-net.com/wp-content/uploads/2011/08/System-Preferences.png" alt="Setings command">
